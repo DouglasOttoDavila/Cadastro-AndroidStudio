@@ -1,0 +1,27 @@
+<resources>
+    <string name="welcome_message">Bem-Vindo(a) ao Sistema de Alunos</string>
+    <string name="welcome_btn">Acessar Sistema</string>
+    <string name="app_name">Sistema de Alunos</string>
+    <string name="login_titulo" translatable="false">Login</string>
+    <string name="login_usuario">Usuário</string>
+    <string name="login_senha">Senha</string>
+    <string name="login_btn_login">Acessar</string>
+    <string name="login_tip_usuario">Insira seu nome de usuário (ex. "aluno_ra@ulife.com")</string>
+    <string name="login_tip_senha">Insira sua senha</string>
+    <string name="sistema_titulo">Sistema de Alunos 1.0</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="sexo">Sexo</string>
+    <string name="masc_radio">Masculino</string>
+    <string name="fem_radio">Feminino</string>
+    <string name="data_nascimento">Data de Nascimento (DD/MM/AA)</string>
+    <string name="cpf_numeros" translatable="false">CPF</string>
+    <string name="rg_numeros" translatable="false">RG</string>
+    <string name="endereço">Endereço</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="numero">Número</string>
+    <string name="complemento">Complemento</string>
+    <string name="cep">CEP</string>
+    <string name="foto">Foto</string>
+    <string name="salvar">Salvar Cadastro</string>
+
+</resources>

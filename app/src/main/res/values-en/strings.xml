@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_message">Welcome to Student System</string>
+    <string name="welcome_btn">Access</string>
+    <string name="app_name">Student System</string>
+    <string name="login_usuario">User</string>
+    <string name="login_senha">Password</string>
+    <string name="login_btn_login">Access</string>
+    <string name="login_tip_usuario">Insert your username (e.g. alu123)</string>
+    <string name="login_tip_senha">Insert your password</string>
+    <string name="sistema_titulo">Student System 1.0</string>
+    <string name="nome_completo">Full Name</string>
+    <string name="sexo">Gender</string>
+    <string name="data_nascimento">Birth Date</string>
+    <string name="endereço">Address</string>
+    <string name="logradouro">Address Line 1</string>
+    <string name="numero">Number</string>
+    <string name="complemento">Additional Info</string>
+    <string name="cep">ZIP/CEP</string>
+    <string name="foto">Image</string>
+    <string name="masc_radio">Male</string>
+    <string name="fem_radio">Female</string>
+    <string name="salvar">Save</string>
+</resources>
